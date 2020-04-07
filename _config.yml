@@ -1,6 +1,6 @@
 # Mandatory settings
 
-blog_theme: dark # Or use dark or light
+blog_theme: light # Or use dark or light
 name: Chalk
 paginate: 25
 url: RhythmSyed.github.io
