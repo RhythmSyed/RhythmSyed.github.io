@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Introducing chalk"
-description: "Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll."
+title: "This is the first project"
+description: "This is the first project on this portfolio. Its really cool"
 thumb_image: "documentation/sample-image.jpg"
 tags: [web, jekyll]
 ---
