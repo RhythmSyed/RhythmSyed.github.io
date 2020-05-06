@@ -1,7 +1,7 @@
 # Mandatory settings
 
 blog_theme: dark # Or use dark or light
-name: A Portfolio by Rhythm Syed
+name: Project Portfolio
 paginate: 25
 url: RhythmSyed.github.io
 

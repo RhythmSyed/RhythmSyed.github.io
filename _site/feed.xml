@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>A Portfolio by Rhythm Syed</title>
+    <title>Project Portfolio</title>
     <description></description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
@@ -12,6 +12,30 @@
         <pubDate>Wed, 15 Apr 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/moreco</link>
         <guid isPermaLink="true">http://localhost:4000/posts/moreco</guid>
+      </item>
+    
+      <item>
+        <title>Visualizing Earthquakes in the United States using D3</title>
+        <description>Using a Choropleth map and TopoJSON topology, an interactive visualization is created.</description>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/posts/choropleth-earthquake</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/choropleth-earthquake</guid>
+      </item>
+    
+      <item>
+        <title>Inference Based Blur Removal from Images</title>
+        <description></description>
+        <pubDate>Mon, 02 Dec 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/posts/bayesianblur</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/bayesianblur</guid>
+      </item>
+    
+      <item>
+        <title>Seam Carving for Content-Aware Image Resizing</title>
+        <description></description>
+        <pubDate>Mon, 07 Oct 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/seamcarving</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/seamcarving</guid>
       </item>
     
       <item>

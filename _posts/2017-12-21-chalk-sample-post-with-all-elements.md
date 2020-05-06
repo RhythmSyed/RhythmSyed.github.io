@@ -19,6 +19,11 @@ Use the `highlight` tag to use the following code highlighting your preferred la
 </div>
 {% endhighlight %}
 
+{% highlight python %}
+for i in alphas:
+  print(i)
+{% endhighlight %}
+
 ## Headings
 
 Chalk includes 3 headings by default:
